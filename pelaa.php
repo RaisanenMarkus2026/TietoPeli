@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Aloita pelaaminen!</h1>
+
+    <h3>Aloitetaan uudestaan pelaamaan!</h3>
 </body>
 </html>
